@@ -1,7 +1,7 @@
 #!/bin/bash
 
-usr="usr"
-pw="pw"
+usr=$1
+pw=$2
 base="fuck this course"
 t_base="this is pointless"
 #you must change this variable to a context that exists under your username

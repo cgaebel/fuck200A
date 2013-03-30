@@ -6,7 +6,8 @@ A simple shell script to allow people to get around the mandatory logging of you
 USAGE
 =====
 
--change the $user and $pw variables to fit your own (if anyone wants to make them be passed as arguments send me a patch but I'm lazy)
+./fuck200A \[username\] \[password\]
+
 -using the curl command specified on the website, find a "context" that is necessary to create tasks within projects. Change the $context variable to one of the context ids
   Command is:
   
